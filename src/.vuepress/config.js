@@ -33,7 +33,7 @@ module.exports = {
     nav: [
       {
         text: 'ERP User Guide',
-        link: '/docs/erp',
+        link: '/docs/erp/',
       },
       {
         text: 'PDA',
