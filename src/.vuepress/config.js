@@ -6,6 +6,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'S.Power TEXTILE LIMITED',
+
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -17,7 +18,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: 'black' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
@@ -31,6 +32,16 @@ module.exports = {
     smoothScroll: true,
     lastUpdated: true,
     nav: [
+      {
+        text: 'Language',
+        link: '/docs/erp/',
+        ariaLabel: 'Language',
+          items: [
+            { text: 'Vietnamese', link: '/learn/software-development/' },
+            { text: 'Chines', link: '/learn/devops/' },
+           
+          ]
+      },
       {
         text: 'ERP User Guide',
         link: '/docs/erp/',
