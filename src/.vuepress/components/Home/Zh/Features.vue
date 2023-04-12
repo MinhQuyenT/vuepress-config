@@ -4,7 +4,7 @@
       <img
         class="img-fluid squared"
         style="margin-left: 28%"
-        src="../../../assets/image/bg3.png"
+        src="../../../../assets/image/bg3.png"
         width="80"
         height="80"
         alt="Quy trình khoa học &amp; hiệu quả"
@@ -19,7 +19,7 @@
       <img
         class="img-fluid squared"
         style="margin-left: 28%"
-        src="../../../assets/image/bg2.png"
+        src="../../../../assets/image/bg2.png"
         width="80"
         height="80"
         alt="Quy trình khoa học &amp; hiệu quả"
@@ -34,61 +34,24 @@
       <img
         class="img-fluid squared"
         style="margin-left: 28%"
-        src="../../../assets/image/bg1.png"
+        src="../../../../assets/image/bg1.png"
         width="80"
         height="80"
         alt="Quy trình khoa học &amp; hiệu quả"
       />
       <h3>Tăng cường hiệu suất công việc</h3>
       <p>
-        Hệ thống thông báo, cảnh báo sẽ tự động nhắc nhở công việc, các giấy tờ,
-        hợp đồng, dễ dàng truy cập và làm việc nhanh chống
+        Hệ thống thông báo, cảnh báo sẽ tự động nhắc nhở công việc, các giấy tờ, hợp đồng, dễ dàng truy cập và làm việc nhanh chống
       </p>
     </div>
   </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      style: null,
-    };
-  },
-  methods: {
-    // setStyle() {
-    //   if ((location.pathname === "/")) {
-    //     document.getElementById("app").style.backgroundColor = "beige";
-    //   }else{
-    //     document.getElementById("app").style.backgroundColor = "#fff"
-    //   }
-    // },
-  },
-  mounted() {
-    // this.setStyle();
-  },
-};
-</script>
 <style lang="css">
 body {
   color: #464646;
   font-family: Roboto;
-  height: 100%;
   font-size: 18px;
   line-height: 30px;
   text-align: justify;
 }
-/* #app {
-  height: 100%;
-  background-color: beige;
-}
-#app .navbar {
-  background-color: beige;
-} */
-
-/* .footer {
-  position: absolute;
-  bottom: 0;
-  align-items: center;
-  margin-top: auto;
-} */
 </style>
