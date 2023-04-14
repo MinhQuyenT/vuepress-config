@@ -9,10 +9,9 @@
         height="80"
         alt="Quy trình khoa học &amp; hiệu quả"
       />
-      <h3>Quy trình khoa học - hiệu quả</h3>
+      <h3>科学流程-有效</h3>
       <p>
-        Với quy trình làm việc rõ ràng, khoa học giúp các cấp quản lý tiết kiệm
-        thời gian, tăng sự chính xác, dễ dàng đo lường khối lượng công việc.
+        清晰科学的工作流程，帮助管理者省钱 时间，提高准确性，轻松测量工作量。
       </p>
     </div>
     <div class="feature">
@@ -24,10 +23,9 @@
         height="80"
         alt="Quy trình khoa học &amp; hiệu quả"
       />
-      <h3>Nâng cao năng suất đội ngũ</h3>
+      <h3>提高团队生产力</h3>
       <p>
-        Gia tăng trải nghiệm cho nhân viên chỉ với thời gian ngắn để tiếp xúc và
-        thành thạo công việc với các công cụ tiện lợi và quy trình rõ ràng.
+        通过方便的工具和明确的规定，通过短期接触和成功增加员工体验
       </p>
     </div>
     <div class="feature">
@@ -39,9 +37,9 @@
         height="80"
         alt="Quy trình khoa học &amp; hiệu quả"
       />
-      <h3>Tăng cường hiệu suất công việc</h3>
+      <h3>提升工作表现</h3>
       <p>
-        Hệ thống thông báo, cảnh báo sẽ tự động nhắc nhở công việc, các giấy tờ, hợp đồng, dễ dàng truy cập và làm việc nhanh chống
+        通知提醒系统自动提醒您工作、文档、合同等，助您轻松访问，快速工作。
       </p>
     </div>
   </div>

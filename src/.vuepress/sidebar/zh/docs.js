@@ -1,11 +1,11 @@
 module.exports = [
   {
-    title: "Quản lý nhân sự",
+    title: "人事管理",
     collapsable: true,
     children: [
       "",
       {
-        title: "一.Quản lý nhân viên",
+        title: "一.人員信息資料管理",
         collapsable: true,
         children: [
           "employee-manager",
@@ -14,14 +14,14 @@ module.exports = [
         ],
       },
       {
-        title: "一.Quản lý chấm công",
+        title: "二.考勤管理",
         collapsable: true,
         children: [
           "keeping-data-card",
           "keeping-shift",
           "keeping-arrange-shift",
           {
-            title: "4.Quản lý nghỉ phép",
+            title: "4.假期管理",
             collapsable: true,
             children: [
               "keeping-leave-holiday",
@@ -32,17 +32,17 @@ module.exports = [
         ],
       },
       {
-        title: "三.Quản lý báo cáo",
+        title: "三.報表管理",
         collapsable: true,
         children: ["hr-data"],
       },
       {
-        title: "五.Văn bản",
+        title: "五.公司MEMO",
         collapsable: true,
         children: ["document-procedure", "minutes-meeting"],
       },
       {
-        title: "六.Đăng ký",
+        title: "六.申請",
         collapsable: true,
         children: [
           "business-trip-registration",
@@ -64,16 +64,30 @@ module.exports = [
     ],
   },
   {
-    title: "Quản lý sản xuất",
+    title: "生产管理",
     collapsable: true,
     children: [
       {
-        title: "7. Quản lý phát triển",
+        title: "七.开发管理",
         collapsable: true,
         children: [
           "proMng/weaving-work-order",
           "proMng/dyeing-production-operation",
           "proMng/registration-records",
+        ],
+      },
+    ],
+  },
+  {
+    title: "品质管理",
+    collapsable: true,
+    children: [
+      {
+        title: " 二.成品质检",
+        collapsable: true,
+        children: [
+          "qualityMng/qualityMng-warehouse-receipt",
+          // "qualityMng/qualityMngWarehouse-receip-tshirt-body",
         ],
       },
     ],

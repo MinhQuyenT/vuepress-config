@@ -78,4 +78,17 @@ module.exports = [
       },
     ],
   },
+  {
+    title: "Quản lý chất lượng",
+    collapsable: true,
+    children: [
+      {
+        title: "2. Kiểm tra chất lượng thành phẩm",
+        collapsable: true,
+        children: [
+          "qualityMng/qualityMng-warehouse-receipt",
+        ],
+      },
+    ],
+  },
 ];
