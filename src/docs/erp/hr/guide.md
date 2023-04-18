@@ -1,4 +1,4 @@
-![!](../../../../assets/hr/hr001.png "")
+<!-- ![!](../../../../assets/hr/hr001.png "")
 
 - Thêm nhân viên mới 
 
@@ -47,4 +47,4 @@ Hệ thống sẽ xuất danh sách nhân viên dựa theo kết quả tra cứu
 
 - Chỉnh sửa thông tin cơ bản khác
 
-![!](../../../../assets/hr/hr009.png "")
+![!](../../../../assets/hr/hr009.png "") -->
